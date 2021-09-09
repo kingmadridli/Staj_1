@@ -1,0 +1,251 @@
+,Title,Year,Rated,Released,Runtime,Genre,Director
+1,The Shawshank Redemption,1994,R,14-Oct-94,140,"Crime, Drama",Frank Darabont
+2,The Godfather,1972,R,24-Mar-72,140,"Crime, Drama",Francis Ford Coppola
+3,The Godfather: Part II,1974,R,20-Dec-74,140,"Crime, Drama",Francis Ford Coppola
+4,The Dark Knight,2008,PG-13,18-Jul-08,140,"Action, Crime, Drama",Christopher Nolan
+5,12 Angry Men,1957,APPROVED,1-Apr-57,140,"Crime, Drama",Sidney Lumet
+6,Schindler's List,1993,R,4-Feb-94,140,"Biography, Drama, History",Steven Spielberg
+7,The Lord of the Rings: The Return of the King,2003,PG-13,17-Dec-03,140,"Adventure, Drama, Fantasy",Peter Jackson
+8,Pulp Fiction,1994,R,14-Oct-94,140,"Crime, Drama",Quentin Tarantino
+9,Fight Club,1999,R,15-Oct-99,140,Drama,David Fincher
+10,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,19-Dec-01,140,"Adventure, Drama, Fantasy",Peter Jackson
+11,Forrest Gump,1994,PG-13,6-Jul-94,140,"Comedy, Drama, Romance",Robert Zemeckis
+12,Star Wars: Episode V - The Empire Strikes Back,1980,PG,20-Jun-80,140,"Action, Adventure, Fantasy",Irvin Kershner
+13,Inception,2010,PG-13,16-Jul-10,140,"Action, Adventure, Sci-Fi",Christopher Nolan
+14,The Lord of the Rings: The Two Towers,2002,PG-13,18-Dec-02,140,"Adventure, Drama, Fantasy",Peter Jackson
+15,One Flew Over the Cuckoo's Nest,1975,R,19-Nov-75,140,Drama,Milos Forman
+16,Goodfellas,1990,R,21-Sep-90,140,"Crime, Drama",Martin Scorsese
+17,The Matrix,1999,R,31-Mar-99,140,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski"
+18,Star Wars: Episode IV - A New Hope,1977,PG,25-May-77,140,"Action, Adventure, Fantasy",George Lucas
+19,Se7en,1995,R,22-Sep-95,140,"Crime, Drama, Mystery",David Fincher
+20,It's a Wonderful Life,1946,PG,7-Jan-47,140,"Drama, Family, Fantasy",Frank Capra
+21,The Silence of the Lambs,1991,R,14-Feb-91,140,"Crime, Drama, Thriller",Jonathan Demme
+22,The Usual Suspects,1995,R,15-Sep-95,140,"Crime, Drama, Mystery",Bryan Singer
+23,Léon: The Professional,1994,R,18-Nov-94,140,"Crime, Drama, Thriller",Luc Besson
+24,Saving Private Ryan,1998,R,24-Jul-98,169,"Drama, War",Steven Spielberg
+25,City Lights,1931,G,7-Mar-31,87,"Comedy, Drama, Romance",Charles Chaplin
+26,Interstellar,2014,PG-13,7-Nov-14,169,"Adventure, Drama, Sci-Fi",Christopher Nolan
+27,American History X,1998,R,20-Nov-98,169,"Crime, Drama",Tony Kaye
+28,Modern Times,1936,G,25-Feb-36,169,"Comedy, Drama, Family",Charles Chaplin
+29,Casablanca,1942,PG,23-Jan-43,169,"Drama, Romance, War",Michael Curtiz
+30,The Green Mile,1999,R,10-Dec-99,169,"Crime, Drama, Fantasy",Frank Darabont
+31,Psycho,1960,APPROVED,8-Sep-60,169,"Horror, Mystery, Thriller",Alfred Hitchcock
+32,Raiders of the Lost Ark,1981,PG,12-Jun-81,169,"Action, Adventure",Steven Spielberg
+33,The Pianist,2002,R,28-Mar-03,169,"Biography, Drama, Music",Roman Polanski
+34,Rear Window,1954,APPROVED,1-Sep-54,169,"Mystery, Thriller",Alfred Hitchcock
+35,The Departed,2006,R,6-Oct-06,169,"Crime, Drama, Thriller",Martin Scorsese
+36,Whiplash,2014,R,15-Oct-14,169,"Drama, Music",Damien Chazelle
+37,Terminator 2: Judgment Day,1991,R,3-Jul-91,85,"Action, Sci-Fi, Thriller",James Cameron
+38,Back to the Future,1985,PG,3-Jul-85,85,"Adventure, Comedy, Sci-Fi",Robert Zemeckis
+39,Gladiator,2000,R,5-May-00,85,"Action, Adventure, Drama",Ridley Scott
+40,The Lion King,1994,G,24-Jun-94,85,"Animation, Adventure, Drama","Roger Allers, Rob Minkoff"
+41,The Prestige,2006,PG-13,20-Oct-06,85,"Drama, Mystery, Sci-Fi",Christopher Nolan
+42,Apocalypse Now,1979,R,15-Aug-79,85,"Drama, War",Francis Ford Coppola
+43,Memento,2000,R,25-May-01,85,"Mystery, Thriller",Christopher Nolan
+44,The Great Dictator,1940,APPROVED,7-Mar-41,85,"Comedy, Drama, War",Charles Chaplin
+45,Sunset Boulevard,1950,PASSED,29-Sep-50,85,"Drama, Film-Noir",Billy Wilder
+46,Alien,1979,R,22-Jun-79,85,"Horror, Sci-Fi",Ridley Scott
+47,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,29-Jan-64,85,Comedy,Stanley Kubrick
+48,Paths of Glory,1957,APPROVED,1-Nov-57,85,"Drama, War",Stanley Kubrick
+49,Django Unchained,2012,R,25-Dec-12,85,"Drama, Western",Quentin Tarantino
+50,The Shining,1980,R,13-Jun-80,85,"Drama, Horror",Stanley Kubrick
+51,Witness for the Prosecution,1957,APPROVED,6-Feb-58,85,"Crime, Drama, Mystery",Billy Wilder
+52,The Dark Knight Rises,2012,PG-13,20-Jul-12,85,"Action, Thriller",Christopher Nolan
+53,WALL·E,2008,G,27-Jun-08,85,"Animation, Adventure, Family",Andrew Stanton
+54,American Beauty,1999,R,1-Oct-99,85,"Drama, Romance",Sam Mendes
+55,Once Upon a Time in America,1984,R,1-Jun-84,85,"Crime, Drama",Sergio Leone
+56,Aliens,1986,R,18-Jul-86,85,"Action, Adventure, Sci-Fi",James Cameron
+57,Citizen Kane,1941,APPROVED,5-Sep-41,85,"Drama, Mystery",Orson Welles
+58,North by Northwest,1959,APPROVED,26-Sep-59,85,"Action, Adventure, Mystery",Alfred Hitchcock
+59,Vertigo,1958,PG,21-Jul-58,85,"Mystery, Romance, Thriller",Alfred Hitchcock
+60,Star Wars: Episode VI - Return of the Jedi,1983,PG,25-May-83,85,"Action, Adventure, Fantasy",Richard Marquand
+61,Braveheart,1995,R,24-May-95,85,"Biography, Drama, History",Mel Gibson
+62,Reservoir Dogs,1992,R,2-Sep-92,85,"Crime, Drama, Thriller",Quentin Tarantino
+63,Double Indemnity,1944,PASSED,6-Jul-44,85,"Crime, Drama, Film-Noir",Billy Wilder
+64,Requiem for a Dream,2000,R,15-Dec-00,85,Drama,Darren Aronofsky
+65,Lawrence of Arabia,1962,PG,11-Dec-62,85,"Adventure, Biography, Drama",David Lean
+66,The Kid,1921,NOT RATED,6-Feb-21,85,"Comedy, Drama, Family",Charles Chaplin
+67,A Clockwork Orange,1971,R,2-Feb-72,85,"Crime, Drama, Sci-Fi",Stanley Kubrick
+68,Amadeus,1984,R,19-Sep-84,85,"Biography, Drama, History",Milos Forman
+69,To Kill a Mockingbird,1962,NOT RATED,16-Mar-63,85,"Crime, Drama",Robert Mulligan
+70,Eternal Sunshine of the Spotless Mind,2004,R,19-Mar-04,85,"Drama, Romance, Sci-Fi",Michel Gondry
+71,Singin' in the Rain,1952,APPROVED,11-Apr-52,85,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly"
+72,Taxi Driver,1976,R,8-Feb-76,85,"Crime, Drama",Martin Scorsese
+73,The Sting,1973,PG,25-Dec-73,85,"Comedy, Crime, Drama",George Roy Hill
+74,Toy Story 3,2010,G,18-Jun-10,85,"Animation, Adventure, Comedy",Lee Unkrich
+75,2001: A Space Odyssey,1968,G,12-May-68,85,"Adventure, Sci-Fi",Stanley Kubrick
+76,Full Metal Jacket,1987,R,10-Jul-87,85,"Drama, War",Stanley Kubrick
+77,Baby Driver,2017,R,28-Jun-17,85,"Action, Crime, Music",Edgar Wright
+78,Toy Story,1995,G,22-Nov-95,85,"Animation, Adventure, Comedy",John Lasseter
+79,Inglourious Basterds,2009,R,21-Aug-09,85,"Adventure, Drama, War","Quentin Tarantino, Eli Roth"
+80,Snatch,2000,R,19-Jan-01,85,"Comedy, Crime",Guy Ritchie
+81,The Apartment,1960,APPROVED,16-Sep-60,85,"Comedy, Drama, Romance",Billy Wilder
+82,All About Eve,1950,APPROVED,15-Jan-51,85,Drama,Joseph L. Mankiewicz
+83,Monty Python and the Holy Grail,1975,PG,25-May-75,85,"Adventure, Comedy, Fantasy","Terry Gilliam, Terry Jones"
+84,Scarface,1983,R,9-Dec-83,85,"Crime, Drama",Brian De Palma
+85,L.A. Confidential,1997,R,19-Sep-97,85,"Crime, Drama, Mystery",Curtis Hanson
+86,Good Will Hunting,1997,R,9-Jan-98,85,Drama,Gus Van Sant
+87,The Treasure of the Sierra Madre,1948,APPROVED,24-Jan-48,85,"Adventure, Drama, Western",John Huston
+88,Indiana Jones and the Last Crusade,1989,PG-13,24-May-89,85,"Action, Adventure, Fantasy",Steven Spielberg
+89,Some Like It Hot,1959,NOT RATED,14-Apr-59,85,"Comedy, Romance",Billy Wilder
+90,Batman Begins,2005,PG-13,15-Jun-05,85,"Action, Adventure",Christopher Nolan
+91,Up,2009,PG,29-May-09,85,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson"
+92,The Third Man,1949,APPROVED,31-Aug-49,85,"Film-Noir, Mystery, Thriller",Carol Reed
+93,Unforgiven,1992,R,7-Aug-92,85,"Drama, Western",Clint Eastwood
+94,Judgment at Nuremberg,1961,NOT RATED,18-Dec-61,85,"Drama, War",Stanley Kramer
+95,Raging Bull,1980,R,19-Dec-80,85,"Biography, Drama, Sport",Martin Scorsese
+96,The Great Escape,1963,APPROVED,4-Jul-63,85,"Adventure, Drama, History",John Sturges
+97,Heat,1995,R,15-Dec-95,85,"Action, Crime, Drama",Michael Mann
+98,Die Hard,1988,R,20-Jul-88,85,"Action, Thriller",John McTiernan
+99,The Gold Rush,1925,NOT RATED,N/A,85,"Adventure, Comedy, Drama",Charles Chaplin
+100,Chinatown,1974,R,20-Jun-74,85,"Drama, Mystery, Thriller",Roman Polanski
+101,On the Waterfront,1954,APPROVED,22-Jun-54,85,"Crime, Drama, Thriller",Elia Kazan
+102,Mr. Smith Goes to Washington,1939,NOT RATED,19-Oct-39,85,"Comedy, Drama",Frank Capra
+103,The General,1926,UNRATED,24-Feb-27,85,"Action, Adventure, Comedy","Clyde Bruckman, Buster Keaton"
+104,Inside Out,2015,PG,19-Jun-15,85,"Animation, Adventure, Comedy","Pete Docter, Ronnie Del Carmen"
+105,The Bridge on the River Kwai,1957,PG,14-Dec-57,85,"Adventure, Drama, War",David Lean
+106,Room,2015,R,22-Jan-16,85,Drama,Lenny Abrahamson
+107,La La Land,2016,PG-13,25-Dec-16,85,"Comedy, Drama, Music",Damien Chazelle
+108,Logan,2017,R,3-Mar-17,85,"Action, Drama, Sci-Fi",James Mangold
+109,Blade Runner,1982,R,25-Jun-82,85,"Sci-Fi, Thriller",Ridley Scott
+110,"Lock, Stock and Two Smoking Barrels",1998,R,28-Aug-98,85,"Comedy, Crime",Guy Ritchie
+111,Casino,1995,R,22-Nov-95,85,"Crime, Drama",Martin Scorsese
+112,A Beautiful Mind,2001,PG-13,4-Jan-02,85,"Biography, Drama",Ron Howard
+113,The Elephant Man,1980,PG,10-Oct-80,85,"Biography, Drama",David Lynch
+114,Warrior,2011,PG-13,9-Sep-11,85,"Action, Drama, Sport",Gavin O'Connor
+115,V for Vendetta,2005,R,17-Mar-06,85,"Action, Drama, Thriller",James McTeigue
+116,The Wolf of Wall Street,2013,R,25-Dec-13,85,"Biography, Comedy, Crime",Martin Scorsese
+117,Dial M for Murder,1954,PG,29-May-54,85,"Crime, Film-Noir, Thriller",Alfred Hitchcock
+118,Hacksaw Ridge,2016,R,4-Nov-16,85,"Biography, Drama, History",Mel Gibson
+119,Gone with the Wind,1939,G,17-Jan-40,85,"Drama, History, Romance","Victor Fleming, George Cukor, Sam Wood"
+120,The Message,1976,PG,8-Jul-77,85,"Adventure, Biography, Drama",Moustapha Akkad
+121,Rebecca,1940,APPROVED,12-Apr-40,85,"Drama, Mystery, Romance",Alfred Hitchcock
+122,Trainspotting,1996,R,9-Aug-96,85,Drama,Danny Boyle
+123,The Deer Hunter,1978,R,23-Feb-79,85,"Drama, War",Michael Cimino
+124,Cool Hand Luke,1967,PG,1-Nov-67,85,"Crime, Drama",Stuart Rosenberg
+125,Gran Torino,2008,R,9-Jan-09,85,Drama,Clint Eastwood
+126,The Big Lebowski,1998,R,6-Mar-98,85,"Comedy, Crime","Joel Coen, Ethan Coen"
+127,The Thing,1982,R,25-Jun-82,85,"Horror, Mystery, Sci-Fi",John Carpenter
+128,It Happened One Night,1934,UNRATED,22-Feb-34,85,"Comedy, Romance",Frank Capra
+129,Fargo,1996,R,5-Apr-96,85,"Crime, Drama, Thriller","Joel Coen, Ethan Coen"
+130,The Sixth Sense,1999,PG-13,6-Aug-99,85,"Drama, Mystery, Thriller",M. Night Shyamalan
+131,Finding Nemo,2003,G,30-May-03,85,"Animation, Adventure, Comedy","Andrew Stanton, Lee Unkrich"
+132,Mary and Max,2009,NOT RATED,9-Apr-09,85,"Animation, Comedy, Drama",Adam Elliot
+133,No Country for Old Men,2007,R,21-Nov-07,85,"Crime, Drama, Thriller","Ethan Coen, Joel Coen"
+134,How to Train Your Dragon,2010,PG,26-Mar-10,85,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders"
+135,There Will Be Blood,2007,R,25-Jan-08,85,"Drama, History",Paul Thomas Anderson
+136,Into the Wild,2007,R,19-Oct-07,85,"Adventure, Biography, Drama",Sean Penn
+137,Kill Bill: Vol. 1,2003,R,10-Oct-03,85,"Action, Crime, Thriller",Quentin Tarantino
+138,Gone Girl,2014,R,3-Oct-14,85,"Crime, Drama, Mystery",David Fincher
+139,Life of Brian,1979,R,17-Aug-79,85,Comedy,Terry Jones
+140,Network,1976,R,27-Nov-76,85,Drama,Sidney Lumet
+141,Shutter Island,2010,R,19-Feb-10,85,"Mystery, Thriller",Martin Scorsese
+142,In the Name of the Father,1993,R,25-Feb-94,85,"Biography, Drama",Jim Sheridan
+143,Rush,2013,R,27-Sep-13,85,"Action, Biography, Drama",Ron Howard
+144,Hotel Rwanda,2004,PG-13,4-Feb-05,85,"Biography, Drama, History",Terry George
+145,Platoon,1986,R,6-Feb-87,85,"Drama, War",Oliver Stone
+146,Song of the Sea,2014,PG,10-Dec-14,85,"Animation, Adventure, Family",Tomm Moore
+147,Ben-Hur,1959,G,29-Jan-60,85,"Adventure, Drama, History",William Wyler
+148,Stand by Me,1986,R,22-Aug-86,85,"Adventure, Drama",Rob Reiner
+149,Hachi: A Dog's Tale,2009,G,12-Mar-10,85,"Drama, Family",Lasse Hallström
+150,Kind Hearts and Coronets,1949,APPROVED,14-Jun-50,85,"Comedy, Crime",Robert Hamer
+151,The Maltese Falcon,1941,APPROVED,18-Oct-41,85,"Film-Noir, Mystery",John Huston
+152,Butch Cassidy and the Sundance Kid,1969,PG,24-Oct-69,85,"Biography, Crime, Drama",George Roy Hill
+153,The Legend of 1900,1998,R,28-Oct-98,85,"Drama, Music, Romance",Giuseppe Tornatore
+154,Spotlight,2015,R,20-Nov-15,85,"Crime, Drama, History",Tom McCarthy
+155,Brief Encounter,1945,NOT RATED,24-Aug-46,85,"Drama, Romance",David Lean
+156,The Best Years of Our Lives,1946,PASSED,17-Jun-47,85,"Drama, Romance, War",William Wyler
+157,The Grapes of Wrath,1940,APPROVED,15-Mar-40,85,"Drama, History",John Ford
+158,12 Years a Slave,2013,R,8-Nov-13,85,"Biography, Drama, History",Steve McQueen
+159,The Grand Budapest Hotel,2014,R,28-Mar-14,85,"Adventure, Comedy, Drama",Wes Anderson
+160,Mad Max: Fury Road,2015,R,15-May-15,85,"Action, Adventure, Sci-Fi",George Miller
+161,The Princess Bride,1987,PG,9-Oct-87,85,"Adventure, Family, Fantasy",Rob Reiner
+162,What Ever Happened to Baby Jane?,1962,APPROVED,N/A,85,"Drama, Horror, Thriller",Robert Aldrich
+163,Million Dollar Baby,2004,PG-13,28-Jan-05,85,"Drama, Sport",Clint Eastwood
+164,Jurassic Park,1993,PG-13,11-Jun-93,85,"Adventure, Sci-Fi, Thriller",Steven Spielberg
+165,Touch of Evil,1958,PG-13,1-Feb-58,85,"Crime, Drama, Film-Noir",Orson Welles
+166,Spider-Man: Homecoming,2017,PG-13,7-Jul-17,85,"Action, Adventure, Sci-Fi",Jon Watts
+167,Before Sunrise,1995,R,27-Jan-95,85,"Drama, Romance",Richard Linklater
+168,The Truman Show,1998,PG,5-Jun-98,85,"Comedy, Drama, Sci-Fi",Peter Weir
+169,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,15-Jul-11,85,"Adventure, Drama, Fantasy",David Yates
+170,Star Wars: The Force Awakens,2015,PG-13,18-Dec-15,85,"Action, Adventure, Fantasy",J.J. Abrams
+171,"Paris, Texas",1984,R,19-Sep-84,85,Drama,Wim Wenders
+172,The Last Picture Show,1971,R,22-Oct-71,85,Drama,Peter Bogdanovich
+173,Gandhi,1982,PG,25-Feb-83,85,"Biography, Drama, History",Richard Attenborough
+174,Barry Lyndon,1975,PG,18-Dec-75,85,"Adventure, Drama, History",Stanley Kubrick
+175,Rocky,1976,PG,3-Dec-76,85,"Drama, Sport",John G. Avildsen
+176,Annie Hall,1977,PG,20-Apr-77,85,"Comedy, Romance",Woody Allen
+177,Prisoners,2013,R,20-Sep-13,85,"Crime, Drama, Mystery",Denis Villeneuve
+178,Donnie Darko,2001,R,26-Oct-01,85,"Drama, Sci-Fi, Thriller",Richard Kelly
+179,Catch Me If You Can,2002,PG-13,25-Dec-02,85,"Biography, Crime, Drama",Steven Spielberg
+180,The Man Who Shot Liberty Valance,1962,APPROVED,22-Apr-62,85,"Action, Drama, Western",John Ford
+181,Laura,1944,APPROVED,1-Nov-44,85,"Drama, Film-Noir, Mystery",Otto Preminger
+182,"Monsters, Inc.",2001,G,2-Nov-01,85,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich"
+183,The Bourne Ultimatum,2007,PG-13,3-Aug-07,85,"Action, Mystery, Thriller",Paul Greengrass
+184,Cat on a Hot Tin Roof,1958,APPROVED,20-Sep-58,85,"Drama, Romance",Richard Brooks
+185,The Wizard of Oz,1939,G,25-Aug-39,85,"Adventure, Family, Fantasy","Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor"
+186,Sleuth,1972,PG,12-Jul-73,85,"Mystery, Thriller",Joseph L. Mankiewicz
+187,Roman Holiday,1953,PASSED,2-Sep-53,85,"Comedy, Romance",William Wyler
+188,Out of the Past,1947,NOT RATED,1-Dec-47,175,"Crime, Drama, Film-Noir",Jacques Tourneur
+189,Anatomy of a Murder,1959,UNRATED,1-Sep-59,175,"Crime, Drama, Mystery",Otto Preminger
+190,Who's Afraid of Virginia Woolf?,1966,TV-MA,22-Jun-66,175,Drama,Mike Nichols
+191,The Terminator,1984,R,26-Oct-84,175,"Action, Sci-Fi",James Cameron
+192,Groundhog Day,1993,PG,12-Feb-93,175,"Comedy, Fantasy, Romance",Harold Ramis
+193,The Help,2011,PG-13,10-Aug-11,175,Drama,Tate Taylor
+194,Strangers on a Train,1951,PG,30-Jun-51,175,"Crime, Film-Noir, Thriller",Alfred Hitchcock
+195,The Night of the Hunter,1955,APPROVED,24-Nov-55,175,"Crime, Drama, Film-Noir",Charles Laughton
+196,All Quiet on the Western Front,1930,UNRATED,24-Aug-30,175,"Drama, War",Lewis Milestone
+197,Beauty and the Beast,1991,G,22-Nov-91,175,"Animation, Family, Fantasy","Gary Trousdale, Kirk Wise"
+198,Lion,2016,PG-13,6-Jan-17,90,"Biography, Drama",Garth Davis
+199,Twelve Monkeys,1995,R,5-Jan-96,90,"Mystery, Sci-Fi, Thriller",Terry Gilliam
+200,Guardians of the Galaxy,2014,PG-13,1-Aug-14,90,"Action, Adventure, Sci-Fi",James Gunn
+201,Dog Day Afternoon,1975,R,25-Dec-75,90,"Biography, Crime, Drama",Sidney Lumet
+202,Jaws,1975,PG,20-Jun-75,90,"Adventure, Drama, Thriller",Steven Spielberg
+203,Zootopia,2016,PG,4-Mar-16,90,"Animation, Adventure, Comedy","Jared Bush, Byron Howard, Rich Moore"
+204,Guardians of the Galaxy Vol. 2,2017,PG-13,5-May-17,90,"Action, Adventure, Sci-Fi",James Gunn
+205,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,9-Jul-03,90,"Action, Adventure, Fantasy",Gore Verbinski
+206,Before Sunset,2004,R,30-Jul-04,90,"Drama, Romance",Richard Linklater
+207,The Imitation Game,2014,PG-13,25-Dec-14,90,"Biography, Drama, Thriller",Morten Tyldum
+208,Young Frankenstein,1974,PG,15-Dec-74,120,Comedy,Mel Brooks
+209,Stalag 17,1953,NOT RATED,10-Aug-53,120,"Drama, War",Billy Wilder
+210,Dogville,2003,R,23-Apr-04,120,"Crime, Drama",Lars von Trier
+211,Dead Poets Society,1989,PG,9-Jun-89,120,"Comedy, Drama",Peter Weir
+212,High Noon,1952,PG,30-Jul-52,120,"Drama, Thriller, Western",Fred Zinnemann
+213,Papillon,1973,R,6-Feb-74,120,"Biography, Crime, Drama",Franklin J. Schaffner
+214,A Streetcar Named Desire,1951,PG,1-Dec-51,160,Drama,Elia Kazan
+215,Arsenic and Old Lace,1944,NOT RATED,23-Sep-44,160,"Comedy, Crime, Thriller",Frank Capra
+216,Sin City,2005,R,1-Apr-05,160,"Crime, Thriller","Frank Miller, Robert Rodriguez, Quentin Tarantino"
+217,The Hustler,1961,UNRATED,27-Oct-61,160,"Drama, Sport",Robert Rossen
+218,A Night at the Opera,1935,PASSED,15-Nov-35,160,"Comedy, Music, Musical","Sam Wood, Edmund Goulding"
+219,The Killing,1956,APPROVED,6-Jun-56,160,"Crime, Drama, Film-Noir",Stanley Kubrick
+220,The Avengers,2012,PG-13,4-May-12,160,"Action, Sci-Fi",Joss Whedon
+221,Notorious,1946,APPROVED,6-Sep-46,160,"Drama, Film-Noir, Romance",Alfred Hitchcock
+222,Harvey,1950,NOT RATED,21-Dec-50,160,"Comedy, Drama, Fantasy",Henry Koster
+223,The Martian,2015,PG-13,2-Oct-15,160,"Adventure, Drama, Sci-Fi",Ridley Scott
+224,The Exorcist,1973,R,26-Dec-73,160,Horror,William Friedkin
+225,Rio Bravo,1959,NOT RATED,4-Apr-59,160,"Action, Drama, Western",Howard Hawks
+226,The Philadelphia Story,1940,NOT RATED,17-Jan-41,160,"Comedy, Romance",George Cukor
+227,Rope,1948,APPROVED,25-Sep-48,160,"Crime, Drama, Thriller",Alfred Hitchcock
+228,The Big Sleep,1946,APPROVED,31-Aug-46,160,"Crime, Film-Noir, Mystery",Howard Hawks
+229,Pink Floyd: The Wall,1982,R,17-Sep-82,110,"Animation, Drama, Fantasy",Alan Parker
+230,The King's Speech,2010,R,25-Dec-10,110,"Biography, Drama",Tom Hooper
+231,A Christmas Story,1983,PG,18-Nov-83,110,"Comedy, Family",Bob Clark
+232,The Graduate,1967,APPROVED,22-Dec-67,110,"Comedy, Drama",Mike Nichols
+233,JFK,1991,R,20-Dec-91,110,"Drama, History, Thriller",Oliver Stone
+234,Sling Blade,1996,R,14-Mar-97,110,Drama,Billy Bob Thornton
+235,Blood Diamond,2006,R,8-Dec-06,110,"Adventure, Drama, Thriller",Edward Zwick
+236,Magnolia,1999,R,7-Jan-00,110,Drama,Paul Thomas Anderson
+237,Rain Man,1988,R,16-Dec-88,110,Drama,Barry Levinson
+238,The Revenant,2015,R,8-Jan-16,110,"Adventure, Drama, Thriller",Alejandro González Iñárritu
+239,The Nightmare Before Christmas,1993,PG,29-Oct-93,110,"Animation, Family, Fantasy",Henry Selick
+240,The Manchurian Candidate,1962,PG-13,24-Oct-62,110,"Drama, Thriller",John Frankenheimer
+241,Deadpool,2016,R,12-Feb-16,110,"Action, Adventure, Comedy",Tim Miller
+242,The Wild Bunch,1969,R,7-Aug-69,110,"Action, Adventure, Western",Sam Peckinpah
+243,Aladdin,1992,G,25-Nov-92,180,"Animation, Adventure, Comedy","Ron Clements, John Musker"
+244,Big Fish,2003,PG-13,9-Jan-04,180,"Adventure, Drama, Fantasy",Tim Burton
+245,Patton,1970,GP,2-Apr-70,180,"Biography, Drama, War",Franklin J. Schaffner
+246,The Lost Weekend,1945,NOT RATED,1-Jan-46,180,"Drama, Film-Noir",Billy Wilder
+247,Short Term 12,2013,R,23-Aug-13,180,Drama,Destin Daniel Cretton
+248,His Girl Friday,1940,APPROVED,18-Jan-40,180,"Comedy, Drama, Romance",Howard Hawks
+249,The Straight Story,1999,G,3-Nov-99,180,"Biography, Drama",David Lynch
+250,Slumdog Millionaire,2008,R,25-Dec-08,180,Drama,"Danny Boyle, Loveleen Tandan"

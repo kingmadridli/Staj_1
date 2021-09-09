@@ -1,0 +1,226 @@
+/* CSS Dosyası */
+
+/* Boşlukları Sıfırla */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+    
+}
+
+/* Div */
+#sayfa{
+    width: 1531px;
+    height: 1800px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+
+}
+
+/* Banner */
+#banner{
+    width: 1523px;
+    border-style: solid;
+    height: 150px;
+    margin: auto;
+    border-width: 2px;
+    background-color: white;
+}
+
+/* Logo */
+#logo{
+    width: 100px;
+    border-style: none;
+    height: 80px;
+    border-width: 2px;
+    background-color: white;
+    position: relative;
+    top: 15px;
+    left: 10px;
+    float: left;
+}
+
+/* Sosyal Medya */
+#sosyal{
+    width: 196px;
+    border-style: none;
+    height: 62px;
+    border-width: 2px;
+    background-color: white;
+    float: right;
+    position: relative;
+    top: 45px;
+    right: 10px;
+}
+
+/* Özgür Çetin */
+#ozgur{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    margin: auto;
+    position: relative;
+    top: 55px;
+    left: 480px;
+}
+
+/* Anamenü */
+#anamenu{
+    width: 1523px;
+    border-style: solid;
+    height: 50px;
+    margin: auto;
+    border-width: 2px;
+    background-color: deepskyblue ;
+}
+
+#anamenu ul{
+    list-style-type: none;
+}
+
+#anamenu ul li{
+    border-style: solid;
+    border-width: 3px;
+    width: 100px;
+    border-radius: 10px;
+    border-color: blue;
+    background-color: white;
+    float: left;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    top: 2px;
+    text-align: center;
+    left: 430px;
+}
+
+#anamenu ul li a{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+#anamenu ul li a:link{
+    color: blue;
+}
+
+#anamenu ul li a:visited{
+    color: brown;
+}
+
+#anamenu ul li a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+#anamenu ul li a:active{
+    color: red;
+}
+
+/* İçerik ve Yan Menü  */
+#icerik{
+    width: 1144px;
+    border-style: solid;
+    height: 1450px;
+    border-width: 2px;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 2px;
+}
+
+#yanmenu{
+    width: 376px;
+    border-style: solid;
+    height: 1450px;
+    border-width: 2px;
+    background-color: royalblue;
+    float: right;
+    position: relative;
+    right: 2px;
+}
+
+/* Resim  */
+.resim{
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 10px;
+}
+
+/* Metin */
+.metin{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: teal;
+}
+
+.baslik{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
+    color: cyan;
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
+    color: yellow;
+}
+
+.metin2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: indigo;
+}
+
+
+/* Alt Menü  */
+#altmenu{
+    background-color: turquoise;
+    width: 1523px;
+    height: 150px;
+    border-style: solid;
+    margin: auto;
+    float: left;
+    position: relative;
+    left: 2px;
+    text-align: center;
+}
+
+#altmenu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+    top: 20px; 
+    text-decoration: none;
+}
+
+#altmenu a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+#footp{
+    position: relative;
+    top: 40px;
+}
+
+#bas{
+    position: relative;
+    left: 5px;
+    top: 80px;
+}
+
+p{
+    font-size: 30px;
+    color: red;
+}
+
