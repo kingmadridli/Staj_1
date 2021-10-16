@@ -56,7 +56,7 @@ def Connect():
 
 def ReadCSV():
     global liste
-    with open("Proje_5.csv","r") as file:
+    with open("Proje_5_eski.csv","r") as file:
         content = file.readlines()
         i = 0
         liste = []
@@ -70,7 +70,7 @@ def ReadCSV():
         return liste
 
 def Count():
-    with open("Proje_5.csv","r") as file:
+    with open("Proje_5_eski.csv","r") as file:
         var1 = len(list(file.readlines()))
         return var1
 

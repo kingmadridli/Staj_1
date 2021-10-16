@@ -122,7 +122,7 @@ def ReadOnce(button_number):
         messagebox.showinfo("Error","Connection Error\nLütfen Bağlantıyı gerçekleştiriniz. ")    
 
     
-def ThreadLoop(button_number):
+def ThreadLoop(button_number):  
     global my_threads,my_infos
     while True:
         time.sleep(0.5)
